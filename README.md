@@ -1,5 +1,8 @@
 # Tiny_MIDI_Keyboard_kit
 
+![Screenshot_20251028_112348_Photos](https://github.com/user-attachments/assets/0421bb7c-3b7b-4d7f-b68e-23ff60d3b272)
+
+
 これは、Raspberry Pi RP2040-Zeroを搭載したコンパクトなMIDIキーボードキットの組み立てと使用方法を説明するリポジトリです。PCやスマートフォンにUSBで接続するだけで、DAWやMIDI対応アプリをコントロールできます。
 
 ## 特徴
